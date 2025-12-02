@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AllMightyAspire/AllMightyAspire.ApiService/AllMightyAspire.ApiService.csproj" />
+  <Project Path="AllMightyAspire/AllMightyAspire.AppHost/AllMightyAspire.AppHost.csproj" />
+  <Project Path="AllMightyAspire/AllMightyAspire.ServiceDefaults/AllMightyAspire.ServiceDefaults.csproj" />
+  <Project Path="AllMightyAspire/AllMightyAspire.Web/AllMightyAspire.Web.csproj" />
+</Solution>
