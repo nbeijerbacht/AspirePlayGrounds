@@ -11,11 +11,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AllMightyAspire.ApiService\AllMightyAspire.ApiService.csproj" />
-    <ProjectReference Include="..\AllMightyAspire.Web\AllMightyAspire.Web.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Aspire.Hosting.AppHost" Version="9.5.0" />
   </ItemGroup>
 
